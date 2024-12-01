@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+flask==2.2.2
+=======
+flask==2.2.2
+>>>>>>> dockerfile
+
